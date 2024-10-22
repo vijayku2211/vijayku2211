@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vijaykumar2211
-- 👀 I’m interested in ... Python Language
+- 👀 I’m interested in ... Python Programming Language
 - 🌱 I’m currently learning ... Python Fullstack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
